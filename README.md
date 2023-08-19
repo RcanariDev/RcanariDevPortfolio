@@ -8,13 +8,13 @@ Data projects portfolio
 * Enviar los resultados obtenidos a través de Whatsapp y Outlook.
 
 
-![](https://github.com/RcanariDev/RcanariDevPortfolio/blob/main/images/imgonline-com-ua-remJpegArtifacts-mlR5k9ZNtxgWtSIB.jpg)
+![](/images/imgonline-com-ua-remJpegArtifacts-mlR5k9ZNtxgWtSIB.jpg)
 
 
 # [Project 2: Crear dashboard como formulario](https://www.youtube.com/)
 En este proyecto se construyó la simulación de cuestionario tal cual se está empleando en google forms, para así guardar información de manera individual y customiza2r el contenido a detalle de los diferentes elementos que va en un formulario y no se puede editar.
 
 Esta ejemplo puede ser interesante para replicarlo y  mejorarlo más adelante pero con otro tipo de dirección.
-![](https://github.com/RcanariDev/RcanariDevPortfolio/blob/main/images/imgonline-com-ua-remJpegArtifacts-mlR5k9ZNtxgWtSIB.jpg)
+![](/images/imgonline-com-ua-remJpegArtifacts-mlR5k9ZNtxgWtSIB.jpg)
 
 
